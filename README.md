@@ -1,4 +1,4 @@
-# Python_project
+# Python Project
 ## Analyzing Sales Data
 ### This is the link of my notebook.
 https://datalore.jetbrains.com/report/static/eo8m65WKfS82qtvD0EjncL/SpFKrPY8HbUPcd4UXBUQP3
